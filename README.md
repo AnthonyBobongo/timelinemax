@@ -1,3 +1,3 @@
 Landing page concept while messing around with GSAP.
 
-(https://github.com/codicts/The-Great-Escape-Landing-Page/files/5042046/Screen.Recording.2020-08-07.at.10.35.38.AM.mov.zip)
+![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/29877236/89658336-6d642980-d89c-11ea-9bfa-5adb8c567e1b.gif)
